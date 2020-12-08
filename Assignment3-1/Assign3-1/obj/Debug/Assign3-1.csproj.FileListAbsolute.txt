@@ -1,0 +1,7 @@
+D:\DotNet\Assignment3-1\Assign3-1\bin\Debug\Assign3-1.exe.config
+D:\DotNet\Assignment3-1\Assign3-1\bin\Debug\Assign3-1.exe
+D:\DotNet\Assignment3-1\Assign3-1\bin\Debug\Assign3-1.pdb
+D:\DotNet\Assignment3-1\Assign3-1\obj\Debug\Assign3-1.csprojAssemblyReference.cache
+D:\DotNet\Assignment3-1\Assign3-1\obj\Debug\Assign3-1.csproj.CoreCompileInputs.cache
+D:\DotNet\Assignment3-1\Assign3-1\obj\Debug\Assign3-1.exe
+D:\DotNet\Assignment3-1\Assign3-1\obj\Debug\Assign3-1.pdb
