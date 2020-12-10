@@ -1,0 +1,7 @@
+D:\DotNet\Assignment6-1\Assign6-1\bin\Debug\Assign6-1.exe.config
+D:\DotNet\Assignment6-1\Assign6-1\bin\Debug\Assign6-1.exe
+D:\DotNet\Assignment6-1\Assign6-1\bin\Debug\Assign6-1.pdb
+D:\DotNet\Assignment6-1\Assign6-1\obj\Debug\Assign6-1.csprojAssemblyReference.cache
+D:\DotNet\Assignment6-1\Assign6-1\obj\Debug\Assign6-1.csproj.CoreCompileInputs.cache
+D:\DotNet\Assignment6-1\Assign6-1\obj\Debug\Assign6-1.exe
+D:\DotNet\Assignment6-1\Assign6-1\obj\Debug\Assign6-1.pdb
